@@ -14,3 +14,12 @@ ul {
     height: 100vh;
     position: relative;
 }
+
+/* side bar */
+
+.sidebar {
+    width: 410px;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+}
